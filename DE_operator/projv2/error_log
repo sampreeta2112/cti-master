@@ -1,0 +1,6 @@
+[08-Jan-2020 10:46:10 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
+[08-Jan-2020 10:46:10 UTC] PHP Warning:  mysql_insert_id(): Access denied for user ''@'localhost' (using password: NO) in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
+[08-Jan-2020 10:46:10 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
+[08-Jan-2020 10:46:16 UTC] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
+[08-Jan-2020 10:46:16 UTC] PHP Warning:  mysql_insert_id(): Access denied for user ''@'localhost' (using password: NO) in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
+[08-Jan-2020 10:46:16 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/gitw18/public_html/staging-projects/ii/DE_operator/projv2/function.php on line 17
